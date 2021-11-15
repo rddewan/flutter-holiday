@@ -1,6 +1,6 @@
 # holiday
 
-Sample Flutter MVVM project.
+Flutter MVU project.
 
 ## Project Detail
 
@@ -10,4 +10,9 @@ Sample Flutter MVVM project.
 - Curved Navigation Bar
 - Flutter Riverpod
 - MethodChannel - Call Native Android Code
+- Repository Service Pattern
+<br>
+<img src="https://github.com/rddewan/flutter-holiday/blob/master/images/sc_1.png" width="400" height="600">
+<br>
+<img src="https://github.com/rddewan/flutter-holiday/blob/master/images/sc_2.png" width="400" height="600">
 
