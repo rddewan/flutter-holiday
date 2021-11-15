@@ -9,8 +9,10 @@ Flutter MVU project.
 - Dio
 - Curved Navigation Bar
 - Flutter Riverpod
+- Mocktail - Unit Test
 - MethodChannel - Call Native Android Code
 - Repository Service Pattern
+
 <br>
 <img src="https://github.com/rddewan/flutter-holiday/blob/master/images/sc_1.png" width="400" height="600">
 <br>
