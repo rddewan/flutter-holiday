@@ -1,0 +1,6 @@
+{
+    no_internet_connection: "Sorry no internet connection!.",
+    "@no_internet_connection": {
+        "description": "no network connection message"
+    }
+}

@@ -1,5 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:holiday/data/remote/response/holiday_response.dart';
+import 'package:holiday/repository/holiday_repository.dart';
 import 'package:holiday/repository/holiday_repository_impl.dart';
 import 'package:holiday/service/holiday_service.dart';
 import 'package:holiday/util/failure.dart';
@@ -18,7 +19,7 @@ class HolidayServiceImpl implements HolidayService {
     this._holidayRepositoryImpl,
   );
 
-  final HolidayRepositoryImpl _holidayRepositoryImpl;
+  final HolidayRepository _holidayRepositoryImpl;
 
   @override
   Future<Result<Failure, HolidayResponse>> getHoliday() async {

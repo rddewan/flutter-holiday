@@ -9,6 +9,7 @@ import 'package:holiday/ui/page/profile_page.dart';
 import 'package:holiday/ui/page/user_page.dart';
 
 
+
 void main() {
   runApp(const ProviderScope(child: MyApp()));
 }
@@ -24,6 +25,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
+      
       home: MainPage(title: 'Flutter Demo Home Page'),
     );
   }

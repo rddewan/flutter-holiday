@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:holiday/ui/widget/outlined_button_dark.dart';
 import 'package:holiday/ui/widget/outlined_button_white.dart';
 
 void main() {
